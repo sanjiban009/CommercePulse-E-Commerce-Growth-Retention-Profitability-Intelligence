@@ -104,18 +104,6 @@ CommercePulse_Ecommerce_Intelligence/
 
 **The XLSX workbook** contains a start guide, a financial-year scorecard with spreadsheet margin/return/conversion formulas, monthly analytics fact table, and metric dictionary. The detailed CSV contains the **New/Returning** and **COD/Prepaid** breakdowns used by the interactive app, while the workbook uses their aggregated monthly sums.
 
-## Example project screenshot gallery
-
-| Page | Preview |
-|---|---|
-| Executive Overview | [PNG](screenshots/GitHub/PNG/01_Executive_Overview.png) · [JPEG](screenshots/GitHub/JPEG/01_Executive_Overview.jpg) |
-| Growth & Conversion | [PNG](screenshots/GitHub/PNG/02_Growth_and_Conversion.png) · [JPEG](screenshots/GitHub/JPEG/02_Growth_and_Conversion.jpg) |
-| Customer & Retention | [PNG](screenshots/GitHub/PNG/03_Customer_and_Retention.png) · [JPEG](screenshots/GitHub/JPEG/03_Customer_and_Retention.jpg) |
-| Unit Economics | [PNG](screenshots/GitHub/PNG/04_Unit_Economics.png) · [JPEG](screenshots/GitHub/JPEG/04_Unit_Economics.jpg) |
-| Returns & COD Risk | [PNG](screenshots/GitHub/PNG/05_Returns_and_COD_Risk.png) · [JPEG](screenshots/GitHub/JPEG/05_Returns_and_COD_Risk.jpg) |
-| Fulfillment | [PNG](screenshots/GitHub/PNG/06_Fulfillment_Intelligence.png) · [JPEG](screenshots/GitHub/JPEG/06_Fulfillment_Intelligence.jpg) |
-| Forecast & Scenarios | [PNG](screenshots/GitHub/PNG/07_Forecast_and_Scenarios.png) · [JPEG](screenshots/GitHub/JPEG/07_Forecast_and_Scenarios.jpg) |
-
 For LinkedIn, use the prepared images under **`screenshots/LinkedIn/PNG/`** or **`screenshots/LinkedIn/JPEG/`**. Use `docs/linkedin_post.txt` as a starter caption.
 
 ## Technology and engineering choices
