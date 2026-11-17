@@ -1,0 +1,33 @@
+{
+  "rows_detail": 7440,
+  "rows_excel": 1860,
+  "months": 31,
+  "from": "2024-04",
+  "through": "2026-10",
+  "categories": [
+    "Electronics",
+    "Fashion",
+    "Beauty & Personal Care",
+    "Home & Kitchen",
+    "Grocery"
+  ],
+  "regions": [
+    "North",
+    "South",
+    "East",
+    "West"
+  ],
+  "channels": [
+    "Marketplace",
+    "Paid Media",
+    "Direct & Organic"
+  ],
+  "segment": [
+    "New",
+    "Returning"
+  ],
+  "payment": [
+    "Prepaid",
+    "COD"
+  ]
+}

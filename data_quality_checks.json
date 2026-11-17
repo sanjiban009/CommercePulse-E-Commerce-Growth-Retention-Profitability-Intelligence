@@ -1,0 +1,42 @@
+{
+  "detailed_fact_rows": 7440,
+  "monthly_excel_fact_rows": 1860,
+  "month_count": 31,
+  "net_revenue_errors": 0,
+  "contribution_errors": 0,
+  "logistics_errors": 0,
+  "fy_summary": {
+    "FY2024-25_full_or_available": {
+      "orders": 136055,
+      "net_revenue_inr": 224160904.57,
+      "contribution_inr": 49870297.43
+    },
+    "FY2024-25_april_october": {
+      "orders": 75069,
+      "net_revenue_inr": 122883216.19,
+      "contribution_inr": 27209684.2
+    },
+    "FY2025-26_full_or_available": {
+      "orders": 155903,
+      "net_revenue_inr": 262764364.72,
+      "contribution_inr": 59009170.74
+    },
+    "FY2025-26_april_october": {
+      "orders": 86298,
+      "net_revenue_inr": 144923991.56,
+      "contribution_inr": 32531824.91
+    },
+    "FY2026-27_full_or_available": {
+      "orders": 97541,
+      "net_revenue_inr": 168585781.18,
+      "contribution_inr": 38181033.68
+    },
+    "FY2026-27_april_october": {
+      "orders": 97541,
+      "net_revenue_inr": 168585781.18,
+      "contribution_inr": 38181033.68
+    }
+  },
+  "excel_vs_detail_total_mismatches": {},
+  "passed": true
+}

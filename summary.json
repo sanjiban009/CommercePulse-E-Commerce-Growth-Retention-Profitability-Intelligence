@@ -1,0 +1,17 @@
+{
+  "orders": 7574,
+  "customers": 2077,
+  "months": 31,
+  "date_min": [
+    2024,
+    4
+  ],
+  "date_max": [
+    2026,
+    10
+  ],
+  "gmv": 23372630,
+  "net": 17043699,
+  "marketing": 1828025,
+  "contribution": 2200034
+}
