@@ -135,3 +135,13 @@ Synthetic datasets are invented and **not a measured Indian market sample**. Dat
 
 **License:** MIT for the code; synthetic sample data may be reused with attribution.  
 
+<img width="1600" height="1546" alt="07_Forecast_and_Scenarios" src="https://github.com/user-attachments/assets/2c664555-b92b-4a80-b3cf-7efa0884d63c" />
+<img width="1600" height="1256" alt="06_Fulfillment_Intelligence" src="https://github.com/user-attachments/assets/d32c781f-82b5-44cf-b876-71ac64e3607d" />
+<img width="1600" height="1256" alt="05_Returns_and_COD_Risk" src="https://github.com/user-attachments/assets/fed5e6d8-9688-43d6-9f8a-5838b3ba8a8a" />
+<img width="1600" height="1256" alt="04_Unit_Economics" src="https://github.com/user-attachments/assets/d64aaf33-5da2-4fc6-ae3b-c78622f61cda" />
+<img width="1600" height="1256" alt="03_Customer_and_Retention" src="https://github.com/user-attachments/assets/4029395d-a94b-47fc-8b23-8044baa2e97e" />
+<img width="1600" height="1256" alt="02_Growth_and_Conversion" src="https://github.com/user-attachments/assets/1abbb903-7910-4935-b31b-e2ac9c5bada2" />
+<img width="1600" height="1256" alt="01_Executive_Overview" src="https://github.com/user-attachments/assets/415a2d6f-2e5d-4e39-8a66-c1f6da752c73" />
+<img width="1600" height="900" alt="00_Project_Cover" src="https://github.com/user-attachments/assets/efbec60a-22f9-4672-a722-92ca0635c1b4" />
+
+
